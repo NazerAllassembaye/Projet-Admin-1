@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-echo ''''''''''''''''''''''''''''''''''''''''
-echo Projet realisé par Nazer Allassembaye L3AR
-echo ''''''''''''''''''''''''''''''''''''''''
+echo """""""""""""""""""""""""""
+echo Bienvenu à mon projet
+echo """""""""""""""""""""""""""
 
 
 while :
